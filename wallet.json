@@ -1,0 +1,5 @@
+{
+  "priv": "PRIVATE_KEY_BASE64",
+  "addr": "oct1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "rpc": "https://octra.network"
+}
